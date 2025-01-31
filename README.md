@@ -1,4 +1,3 @@
-# Portfolio
 # Personal Portfolio Website 🌐
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information in a clean and responsive design. It's built using **HTML** and **CSS**, with a focus on modern web development practices.
